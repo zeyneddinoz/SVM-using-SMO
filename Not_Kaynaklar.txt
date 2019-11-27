@@ -1,6 +1,6 @@
 ﻿Kaynaklar:
     
-    * Coursera Machine Learning dersleri, SVM (7 hafta)
+    * Coursera Machine Learning dersleri, SVM (7. hafta)
     
     * http://web.cs.iastate.edu/~honavar/smo-svm.pdf
 
