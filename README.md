@@ -7,5 +7,6 @@ Support Vector Machine using the Sequential Minimal Optimization (SMO) in Turkis
 * Türkçe açıklamalarıyla, Ardışık Minimal Optimizasyon kullanılarak yapılmış Destekçi Vektör Makineleri algoritması. 
 Umarım size bir katkımız dokunmuştur. 
 
+https://www.youtube.com/watch?v=66EeYiabupY&ab_channel=dataistanbul
 
 Open source, better science!
